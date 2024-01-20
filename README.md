@@ -2,6 +2,8 @@
 
 A minimalist TodoList web application created using React.js, HTML, and CSS. This app allows users to easily manage their tasks by adding, editing, and marking them as completed.
 
+<img width="1437" alt="Screenshot 2024-01-21 at 12 56 25 AM" src="https://github.com/vishu-bhandari/To-do-list-/assets/130288269/10467044-d98c-4b0b-b3a3-fcb88f8a3421">
+
 # Features:
 
 # Intuitive Interface:
